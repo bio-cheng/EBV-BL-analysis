@@ -1,0 +1,16 @@
+{
+  "mast_feature": "Myeloid_Mast_TPSAB1",
+  "tpex_feature": "T_CD8_Tpex_CXCL13",
+  "trm_feature": "T_CD8_TRM_ZNF683",
+  "cdc1_feature": "Myeloid_DC_cDC1",
+  "mast_min_cells_exclusive": 5,
+  "pfs_threshold_months": 6,
+  "clr_pseudocount": 0.5,
+  "gsea_seed": 20260907,
+  "gsea_min_size": 3,
+  "gsea_max_size": 500,
+  "gsea_eps": 1e-8,
+  "cps_thresholds": [1, 5, 10],
+  "overview_omitted_sets": ["FcERI_Ca2_NFAT", "Mast_identity_granule_storage"],
+  "interpretation": "Exploratory associations, not causal evidence or independent validation"
+}

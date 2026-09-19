@@ -1,0 +1,6 @@
+package	validated_version
+edgeR	4.0.16
+fgsea	1.28.0
+BiocParallel	1.36.0
+data.table	1.17.8
+survival	3.8.3

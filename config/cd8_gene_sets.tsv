@@ -1,0 +1,6 @@
+module	program_label	genes	reference	reference_url
+CD8_Cytotoxic_effector	Cytotoxic effector	NKG7;PRF1;GZMB;GZMH;GNLY;CTSW;CCL5	Siddiqui et al., Immunity 2019; cytotoxic genes also supported by human immune atlases	https://pubmed.ncbi.nlm.nih.gov/30635237/
+CD8_Effector_activation	Effector activation	CD69;TNFRSF9;IFNG;TNF;FASLG	Compact marker panel; interpreted as activation-associated, not a database pathway	https://pubmed.ncbi.nlm.nih.gov/32111241/
+CD8_Chronic_stimulation_checkpoint	Chronic stimulation / checkpoint	PDCD1;LAG3;HAVCR2;TIGIT;TOX;ENTPD1	Kim et al., Genome Medicine 2020	https://pubmed.ncbi.nlm.nih.gov/32111241/
+CD8_TCF7_progenitor_memory_like	TCF7+ progenitor-memory-like	TCF7;SLAMF6;IL7R;LEF1;BCL6	Miller et al., Nature Immunology 2019; Siddiqui et al., Immunity 2019	https://pubmed.ncbi.nlm.nih.gov/30778252/
+CD8_IFN_response	Interferon response	STAT1;IRF1;ISG15;IFIT1;IFIT3;MX1;OAS1;GBP1	MSigDB Hallmark interferon-response collections (compact overlap panel)	https://www.gsea-msigdb.org/gsea/msigdb/geneset_page.jsp?geneSetName=HALLMARK_INTERFERON_GAMMA_RESPONSE

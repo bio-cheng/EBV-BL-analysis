@@ -1,0 +1,5 @@
+{
+  "mast_source_basename": "07_original_module_gene_definitions.tsv",
+  "sha256": "3a177b08e14c3293a6318af41b2c871f1e3efa06f0d8711e0479643c05103ced",
+  "note": "Only curated gene definitions and source metadata included; patient-derived scores and gene SDs removed."
+}
