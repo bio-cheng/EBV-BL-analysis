@@ -78,17 +78,6 @@ schema. Imported data must be stored outside this repository.
   are different estimands. Sample sizes and tie handling are documented in
   [analysis decisions](docs/ANALYSIS.md).
 
-## Before publication
-
-1. Confirm manuscript version and replace old >10-cell figures where appropriate.
-2. Verify batch definitions, data-sharing approval and controlled-access metadata.
-3. Complete upstream preprocessing/QC documentation. The specified Harmony factor
-   is sample; implementation awaits verification of the remaining parameters.
-4. Select a license with the code owners and add authors/manuscript citation.
-5. Run `python scripts/package_release.py --output ../ebv-mast-code.zip` and inspect
-   the archive. This command packages a strict code/documentation allowlist.
-6. Upload the reviewed code package to the project GitHub repository.
-
 The reported data accession is HRA020437. Access conditions require confirmation.
 The earlier study (DOI `10.1016/j.scib.2026.07.049`) includes overlapping patients;
 the overlap count requires confirmation. This comparison is not independent
