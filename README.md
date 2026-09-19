@@ -8,15 +8,6 @@ files, credentials and workstation paths are excluded. The workflow starts from
 annotated cell counts and patient-level pseudobulk counts. Panel numbering is
 provisional; see [panel coverage](docs/PANEL_MAP.md).
 
-## 中文说明
-
-本仓库包含 Fig3/4 及相关补充分析的统计与绘图代码。默认 Mast 纳入阈值
-为每位患者 >5 cells。临床表、单细胞表达矩阵、固定打分参数、患者级结果均
-需要保存在仓库之外；`.gitignore` 不能替代上传前的人工隐私检查。
-
-分析起点为已注释的细胞计数和患者级表达矩阵。FASTQ处理、细胞注释、最终排版
-及部分补充图不在当前范围内。原始研究脚本及结果另行保留。
-
 ## Quick start
 
 Use Python 3.12 and R 4.3.3. Recorded Python versions are in `requirements.txt`;
